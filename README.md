@@ -1,0 +1,1 @@
+Pequeño proyecto para la hackaton de midudev con cohere IA
