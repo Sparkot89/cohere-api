@@ -1,0 +1,367 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of Australia?",
+            "options": [
+                {"key":"Sydney","answer":"Sydney"},
+                {"key":"Canberra","answer":"Canberra"},
+                {"key":"Melbourne","answer":"Melbourne"},
+                {"key":"Perth","answer":"Perth"}
+            ],
+            "answer": "Canberra",
+            "key": "Canberra"
+        },
+        {
+            "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+            "options": [
+                {"key":"Twain","answer":"Mark Twain"},
+                {"key":"Stephen","answer":"Stephen King"},
+                {"key":"Harper","answer":"Harper Lee"},
+                {"key":"Steinbeck","answer":"John Steinbeck"}
+            ],
+            "answer": "Harper Lee",
+            "key": "Harper"
+        },
+        {
+            "question": "What is the largest ocean in the world?",
+            "options": [
+                {"key":"Pacific","answer":"The Pacific Ocean"},
+                {"key":"Atlantic","answer":"The Atlantic Ocean"},
+                {"key":"Indian","answer":"The Indian Ocean"},
+                {"key":"Arctic","answer":"The Arctic Ocean"}
+            ],
+            "answer": "The Pacific Ocean",
+            "key": "Pacific"
+        },
+        {
+            "question": "Who painted the famous artwork 'The Mona Lisa'?",
+            "options": [
+                {"key":"Gogh","answer":"Vincent van Gogh"},
+                {"key":"Picasso","answer":"Pablo Picasso"},
+                {"key":"Vinci","answer":"Leonardo da Vinci"},
+                {"key":"Rembrandt","answer":"Rembrandt"}
+            ],
+            "answer": "Leonardo da Vinci",
+            "key": "Vinci"
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                {"key":"Mercury","answer":"Mercury"},
+                {"key":"Mars","answer":"Mars"},
+                {"key":"Jupiter","answer":"Jupiter"},
+                {"key":"Saturn","answer":"Saturn"}
+            ],
+            "answer": "Mars",
+            "key": "Mars"
+        },
+        {
+            "question": "What is the highest mountain peak in the world?",
+            "options": [
+                {"key":"Everest","answer":"Mount Everest"},
+                {"key":"K2","answer":"K2"},
+                {"key":"Kilimanjaro","answer":"Kilimanjaro"},
+                {"key":"Denali","answer":"Denali"}
+            ],
+            "answer": "Mount Everest",
+            "key": "Everest"
+        },
+        {
+            "question": "Which river is the longest in the world?",
+            "options": [
+                {"key":"Nile","answer":"The Nile"},
+                {"key":"Amazon","answer":"The Amazon"},
+                {"key":"Yangtze","answer":"The Yangtze"},
+                {"key":"Mississippi","answer":"The Mississippi"}
+            ],
+            "answer": "The Nile",
+            "key": "Nile"
+        },
+        {
+            "question": "Which country gifted the Statue of Liberty to the United States?",
+            "options": [
+                {"key":"France","answer":"France"},
+                {"key":"Spain","answer":"Spain"},
+                {"key":"Germany","answer":"Germany"},
+                {"key":"Italy","answer":"Italy"}
+            ],
+            "answer": "France",
+            "key": "France"
+        },
+        {
+            "question": "What is the name of the largest desert in the world?",
+            "options": [
+                {"key":"Sahara","answer":"The Sahara"},
+                {"key":"Gobi","answer":"The Gobi"},
+                {"key":"Atacama","answer":"The Atacama"},
+                {"key":"Kalahari","answer":"The Kalahari"}
+            ],
+            "answer": "The Sahara",
+            "key": "Sahara"
+        },
+        {
+            "question": "Which famous scientist is known as the 'Father of the Atomic Bomb'?",
+            "options": [
+                {"key":"Einstein","answer":"Albert Einstein"},
+                {"key":"Hawking","answer":"Stephen Hawking"},
+                {"key":"Oppenheimer","answer":"J. Robert Oppenheimer"},
+                {"key":"Armstrong","answer":"Neil Armstrong"}
+            ],
+            "answer": "J. Robert Oppenheimer",
+            "key": "Oppenheimer"
+        },
+        {
+            "question": "Which famous political leader was known as 'The Iron Lady'?",
+            "options": [
+                {"key":"Merkel","answer":"Angela Merkel"},
+                {"key":"Mandela","answer":"Nelson Mandela"},
+                {"key":"Churchill","answer":"Winston Churchill"},
+                {"key":"Thatcher","answer":"Margaret Thatcher"}
+            ],
+            "answer": "Margaret Thatcher",
+            "key": "Thatcher"
+        },
+        {
+            "question": "Which famous artist painted the artwork 'Starry Night'?",
+            "options": [
+                {"key":"Gogh","answer":"Vincent van Gogh"},
+                {"key":"Picasso","answer":"Pablo Picasso"},
+                {"key":"Dali","answer":"Salvador Dali"},
+                {"key":"Monet","answer":"Claude Monet"}
+            ],
+            "answer": "Vincent van Gogh",
+            "key": "Gogh"
+        },
+        {
+            "question": "Which famous scientist is known as the 'Father of Microbiology'?",
+            "options": [
+                {"key":"Newton","answer":"Isaac Newton"},
+                {"key":"Pasteur","answer":"Louis Pasteur"},
+                {"key":"Einstein","answer":"Albert Einstein"},
+                {"key":"Galilei","answer":"Galileo Galilei"}
+            ],
+            "answer": "Louis Pasteur",
+            "key": "Pasteur"
+        },
+        {
+            "question": "Which famous explorer is known for discovering America?",
+            "options": [
+                {"key":"Columbus","answer":"Christopher Columbus"},
+                {"key":"Polo","answer":"Marco Polo"},
+                {"key":"Gama","answer":"Vasco da Gama"},
+                {"key":"Magellan","answer":"Ferdinand Magellan"}
+            ],
+            "answer": "Christopher Columbus",
+            "key": "Columbus"
+        },
+        {
+            "question": "What is the capital of China?",
+            "options": [
+                {"key":"Shanghai","answer":"Shanghai"},
+                {"key":"Beijing","answer":"Beijing"},
+                {"key":"Kong","answer":"Hong Kong"},
+                {"key":"Taipei","answer":"Taipei"}
+            ],
+            "answer": "Beijing",
+            "key": "Beijing"
+        },
+        {
+            "question": "Which is the currency of Japan?",
+            "options": [
+                {"key":"Yen","answer":"Yen"},
+                {"key":"Dollar","answer":"Dollar"},
+                {"key":"Euro","answer":"Euro"},
+                {"key":"Pound","answer":"Pound"}
+            ],
+            "answer": "Yen",
+            "key": "Yen"
+        },
+        {
+            "question": "Which famous scientist is known for the theory of evolution?",
+            "options": [
+                {"key":"Einstein","answer":"Albert Einstein"},
+                {"key":"Newton","answer":"Isaac Newton"},
+                {"key":"Darwin","answer":"Charles Darwin"},
+                {"key":"Galilei","answer":"Galileo Galilei"}
+            ],
+            "answer": "Charles Darwin",
+            "key": "Darwin"
+        },
+        {
+            "question": "Which famous physicist developed the theory of relativity?",
+            "options": [
+                {"key":"Einstein","answer":"Albert Einstein"},
+                {"key":"Newton","answer":"Isaac Newton"},
+                {"key":"Hawking","answer":"Stephen Hawking"},
+                {"key":"Armstrong","answer":"Neil Armstrong"}
+            ],
+            "answer": "Albert Einstein",
+            "key": "Einstein"
+        },
+        {
+            "question": "Which famous person is the author of the book 'Animals farm' ?",
+            "options": [
+                {"key":"Roberts","answer":"Nora Roberts"},
+                {"key":"King","answer":"Stephen King"},
+                {"key":"Orwell","answer":"George Orwell"},
+                {"key":"Salinger","answer":"J.D. Salinger"}
+            ],
+            "answer": "George Orwell",
+            "key": "Orwell"
+        },
+        {
+            "question": "Which city is the capital of Honduras?",
+            "options": [
+                {"answer":"San Pedro Sula","key":"Sula"},
+                {"answer":"Tegucigalpa","key":"Tegucigalpa"},
+                {"answer":"La Ceiba","key":"Ceiba"},
+                {"answer":"Comayagua","key":"Comayagua"}
+            ],
+            "answer": "Tegucigalpa",
+            "key": "Tegucigalpa"
+        },
+        {
+            "question": "Which famous person is the author of the book 'The Lord of the Rings'?",
+            "options": [
+                {"key":"Tolkien","answer":"J.R.R. Tolkien"},
+                {"key":"King","answer":"Stephen King"},
+                {"key":"Steinbeck","answer":"John Steinbeck"},
+                {"key":"Roberts","answer":"Nora Roberts"}
+            ],
+            "answer": "J.R.R. Tolkien",
+            "key": "Tolkien"
+        },
+        {
+            "question": "Which famous person is the author of the book 'The Diary of a Young Girl'?",
+            "options": [
+                {"key":"Frank","answer":"Anne Frank"},
+                {"key":"King","answer":"Stephen King"},
+                {"key":"Steinbeck","answer":"John Steinbeck"},
+                {"key":"Roberts","answer":"Nora Roberts"}
+            ],
+            "answer": "Anne Frank",
+            "key": "Frank"
+        },
+        {
+            "question": "Which famous person is the author of the book 'The Great Gatsby'?",
+            "options": [
+                {"key":"Fitzgerald","answer":"F. Scott Fitzgerald"},
+                {"key":"King","answer":"Stephen King"},
+                {"key":"Steinbeck","answer":"John Steinbeck"},
+                {"key":"Roberts","answer":"Nora Roberts"}
+            ],
+            "answer": "F. Scott Fitzgerald",
+            "key": "Fitzgerald"
+        },
+        {
+            "question": "Which famous person is the author of the book 'The Catcher in the Rye'?",
+            "options": [
+                {"key":"Salinger","answer":"J.D. Salinger"},
+                {"key":"King","answer":"Stephen King"},
+                {"key":"Steinbeck","answer":"John Steinbeck"},
+                {"key":"Roberts","answer":"Nora Roberts"}
+            ],
+            "answer": "J.D. Salinger",
+            "key": "Salinger"
+        },
+        {
+            "question": "Who is the author of the phrase 'I think, therefore I am'?",
+            "options": [
+                {"key":"Descartes","answer":"Rene Descartes"},
+                {"key":"Newton","answer":"Isaac Newton"},
+                {"key":"Einstein","answer":"Albert Einstein"},
+                {"key":"Hawking","answer":"Stephen Hawking"}
+            ],
+            "answer": "Rene Descartes",
+            "key": "Descartes"
+        },
+        {
+            "question": "What is the largest country in the world?",
+            "options": [
+                {"key":"Russia","answer":"Russia"},
+                {"key":"States","answer":"United States"},
+                {"key":"China","answer":"China"},
+                {"key":"Australia","answer":"Australia"}
+            ],
+            "answer": "Russia",
+            "key": "Russia"
+        },
+        {
+            "question": "What is the most sold book in the world after the Bible?",
+            "options": [
+                {"key":"Quran","answer":"The Quran"},
+                {"key":"Potter","answer":"The Harry Potter series"},
+                {"key":"Rings","answer":"The Lord of the Rings"},
+                {"key":"Hobbit","answer":"The Hobbit"}
+            ],
+            "answer": "The Quran",
+            "key": "Quran"
+        },
+        {
+            "question": "How many decimal places does the number pi (π) have?",
+            "options": [
+                {"key":"3","answer":"3"},
+                {"key":"6","answer":"6"},
+                {"key":"9","answer":"9"},
+                {"key":"Infinite","answer":"Infinite"}
+            ],
+            "answer": "Infinite",
+            "key": "Infinite"
+        },
+        {
+            "question": "Which is the majoritary component of Common salt?",
+            "options": [
+                {"key":"sodium","answer":"Sodium"},
+                {"key":"bicarbonate","answer":"Bicarbonate"},
+                {"key":"hydrogen","answer":"Hydrogen"},
+                {"key":"nitrate","answer":"Nitrogen"}
+            ],
+            "answer": "Sodium",
+            "key":"sodium"
+        },
+        {
+            "question": "Who painted the work 'Guernica'?",
+            "options": [
+                {"key":"Picasso","answer":"Pablo Picasso"},
+                {"key":"Dali","answer":"Salvador Dali"},
+                {"key":"Gogh","answer":"Vincent van Gogh"},
+                {"key":"Frida","answer":"Frida Kahlo"}
+            ],
+            "answer": "Pablo Picasso",
+            "key": "Picasso"
+        },
+        {
+            "question": "In which year did the first human travel to space?",
+            "options": [
+                {"key":"1961","answer":"In 1961"},
+                {"key":"1963","answer":"In 1963"},
+                {"key":"1960","answer":"In 1960"},
+                {"key":"1959","answer":"In 1959"}
+            ],
+            "answer": "In 1961",
+            "key": "1961"
+        },
+        {
+            "question": "According to the Bible, how many years did Methuselah live?",
+            "options": [
+                {"key":"972","answer":"972 years"},
+                {"key":"965","answer":"965 years"},
+                {"key":"950","answer":"950 years"},
+                {"key":"969","answer":"969 years"}
+            ],
+            "answer": "969 years",
+            "key": "969"
+        },
+        {
+            "question": "Where is the Sagrada Familia located?",
+            "options": [
+                {"key":"Valencia","answer":"Valencia"},
+                {"key":"Cordoba","answer":"Córdoba"},
+                {"key":"Barcelona","answer":"Barcelona"},
+                {"key":"Madrid","answer":"Madrid"}
+            ],
+            "answer": "Barcelona",
+            "key": "Barcelona"
+        }
+    ]
+}

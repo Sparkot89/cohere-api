@@ -1,0 +1,223 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0e0e10;
+  min-height: 100vh;
+}
+
+.root{
+  width: 100%;
+  min-height: 100vh;
+  margin: auto;
+}
+
+.contenedor{
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcome{
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: aliceblue;
+  font-weight: bold;
+  text-align: center;
+}
+.welcomeLegend{
+  text-align: left;
+}
+
+.inputText{
+  height: 80vh;
+  width: 100%;
+  margin: auto;
+  padding: 2rem;
+  margin-top: 5vh;
+  border: 10px solid rgb(154, 255, 208);
+  box-sizing: border-box;
+  border-radius: 20px;
+  resize: none;
+  background-color: #2f2f32;
+  caret-shape: underscore;
+  caret-color: aliceblue;
+  color: aliceblue;
+  font-size: 2rem;
+  outline: none;
+}
+
+.button{
+  margin-left: 50%;
+  margin-top: 1rem;
+  background-color: rgb(72, 166, 92);
+  color: aliceblue;
+  font-size: 3rem;
+  height: 5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+
+
+.cardContainer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardBody {
+  background-color: transparent;
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+  color: aliceblue;
+}
+
+.circle{
+  margin-left: 5px;
+  margin-right : 5px;
+}
+
+.cardText{
+  font-size: 3rem;
+  margin-top: 10px;
+}
+
+.question-carousel {
+  text-align: center;
+  color: aliceblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.options button {
+  margin-top:1rem;
+  margin-top: 1rem;
+  background-color: rgb(210, 228, 214);
+  color: rgb(67, 72, 75);
+  font-size: 2rem;
+  height: 5rem;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.options button:hover {
+  background-color: rgb(152, 226, 236);
+  color: aliceblue
+}
+
+.options button.userSelected:disabled{
+  background-color: rgb(242, 252, 156);
+  color: rgb(67, 72, 75);
+}
+
+.options button:disabled.AISelection.userSelected{
+  background-color: rgb(255, 20, 20);
+  color: aliceblue;
+}
+
+.options button:disabled.AISelection:not(.userSelected){
+  background-color: rgb(252, 156, 228);
+  color: rgb(67, 72, 75);
+}
+
+.options button:disabled.correctAnswer,
+.options button:disabled.correctAnswer.userSelected,
+.options button:disabled.correctAnswer.AISelection,
+.options button:disabled.correctAnswer.AISelection.userSelected{
+  background-color: rgb(111, 255, 137);
+  color: rgb(67, 72, 75);
+}
+
+.options button.userSelected:hover{
+  background-color: rgb(242, 252, 156);
+}
+
+.options button:disabled{
+  background-color: rgb(210, 228, 214);
+  color: rgb(67, 72, 75);
+}
+
+.AIResponse{
+  margin-top: 10px;
+}
+
+.nextButton{
+  margin-top: 10px;
+}
+
+.endGame{
+  color: aliceblue;
+  font-size: 3rem;
+}
+
+.endImg{
+  width: 12rem;
+  float: right;
+}
+
+.endText{
+  display: inline-block;
+  font-size: 2rem;
+}
+
+.response::before{
+  content: ' ';
+  width: 15px;
+  height: 15px;
+  border: 3px solid aliceblue;
+  display: inline-block;
+}
+.userResponse::before{
+  background-color: rgb(242, 252, 156);
+}
+
+.AIResponse::before{
+  background-color: rgb(252, 156, 228);
+}
+.bothResponse::before{
+  background-color: rgb(255, 20, 20);
+}
+.correnctAnswer::before{
+  background-color: rgb(111, 255, 137);;
+}
+
+.goTo{
+  height: 2rem;
+  background-color: rgb(152, 226, 236);
+  color: black;
+  width: 6rem;
+  font-weight: bold;
+}
+
+.ready{
+  margin-top: 3rem;
+}
+
+
