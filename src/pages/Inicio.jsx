@@ -2,6 +2,7 @@ import { Link } from "react-router-dom"
 const Inicio = () => {
     return (
         <div className='welcome' >
+            <img src="/logo.png" alt="logo" className="logo"></img>
             <h1>Welcome!!!</h1>
             <span>
                 <p>Are you smarter than an AI? Let's find out!</p>
@@ -13,7 +14,7 @@ const Inicio = () => {
                 <p className="bothResponse response"> Both response</p>
                 <p className="correnctAnswer response"> Correct answer</p>
             </span>
-            <p className="ready">Are you ready?</p>
+            <p className="ready">Are you ready? </p>
             <Link to='/Exam'><button className="goTo">GO!</button></Link>
         </div>
     )
