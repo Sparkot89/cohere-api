@@ -202,7 +202,7 @@ body {
   background-color: rgb(252, 156, 228);
 }
 .bothResponse::before{
-  background-color: rgb(255, 20, 20);
+  background-color: rgb(255, 200, 20);
 }
 .correnctAnswer::before{
   background-color: rgb(111, 255, 137);;
